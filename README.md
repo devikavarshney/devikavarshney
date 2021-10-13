@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devika Varshney</h1>
 <h3 align="center">A passionate Developer and Designer.</h3>
-<img src="https://cdn.dribbble.com/users/1924006/screenshots/3967086/media/a10dea1eaaa1dbd6e64d4b145d9ccb37.gif" alt="java" width="420" height="350" align="right"/>
+<img src="https://cdn.dribbble.com/users/1924006/screenshots/3967086/media/a10dea1eaaa1dbd6e64d4b145d9ccb37.gif" alt="java" width="400" height="280" align="right"/>
 - 🔭 I’m currently working on [CRUD website](https://github.com/devikavarshney/Notes-Webpage)
 
 - 🌱 I’m currently learning **Angular, NodeJS, Java**
