@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devika Varshney</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Developer and Designer.</h3>
 
 - 🔭 I’m currently working on [CRUD website](https://github.com/devikavarshney/Notes-Webpage)
 
