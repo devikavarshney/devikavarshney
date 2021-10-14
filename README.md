@@ -3,9 +3,6 @@
 <br>
 <br>
 <img src="https://cdn.dribbble.com/users/1924006/screenshots/3967086/media/a10dea1eaaa1dbd6e64d4b145d9ccb37.gif" alt="java" width="400" height="280" align="right"/>
- [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devika0003_)
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devikavarshney0003@gmail.com)
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devika-varshney-2776721b5/)  
 <h3 align="left">
 - Connect with me:</h3>
 
