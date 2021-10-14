@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer and Designer.</h3>
 <br>
 <br>
-<img src="https://cdn.dribbble.com/users/1924006/screenshots/3967086/media/a10dea1eaaa1dbd6e64d4b145d9ccb37.gif" alt="java" width="400" height="280" align="right"/>
+<img src="https://cdn.dribbble.com/users/2851002/screenshots/9667092/media/09648e273e248e7cfd22ade4010b2a6e.gif" alt="java" width="400" height="280" align="right"/>
 <h3 align="left">
 - Connect with me:</h3>
 
