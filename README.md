@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Devika Varshney</h1>
+<h1 align="center"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Devika Varshney</h1>
 <h3 align="center">A passionate Developer and Designer.</h3>
 <img src="https://cdn.dribbble.com/users/1924006/screenshots/3967086/media/a10dea1eaaa1dbd6e64d4b145d9ccb37.gif" alt="java" width="400" height="280" align="right"/>
 - 🔭 I’m currently working on [CRUD website](https://github.com/devikavarshney/Notes-Webpage)
