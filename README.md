@@ -7,8 +7,8 @@
 - Connect with me:</h3>
 
 <p align="left">
-<a href="https://dev.to/devika0003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devika0003" height="30" width="40" /></a>
-<a href="https://dribbble.com/devika varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devika varshney" height="30" width="40" /></a>
+<a href="https://dev.to/devika0003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="devika0003" height="30" width="40" />  Dev Blog Community</a> <br> <br>
+<a href="https://dribbble.com/devika varshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="devika varshney" height="30" width="40" />  Dribble</a>
 </p>
 
  
