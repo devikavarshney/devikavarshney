@@ -35,7 +35,7 @@
 <a href="https://github.com/devikavarshney" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="hhttps://www.linkedin.com/in/devika-varshney-2776721b5/" target="_blank">
+<a href="https://www.linkedin.com/in/devika-varshney-2776721b5/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://twitter.com/devika0003_" target="_blank">
@@ -58,11 +58,12 @@
 
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=devikavarshney&theme=gruvbox"/>
-  </a>
-</p>
+
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img src="https://github-profile-trophy.vercel.app/?username=devikavarshney&theme=nord&column=7" alt="Trophies" />
+    </a>
+  </div>
 </details>
 
 <br/>
