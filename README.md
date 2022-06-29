@@ -27,7 +27,7 @@
 
 🤝 I'm looking to collaborate on Real World Problem Solving Projects
 
-🔥 Currently contributing in SWOC'21
+🔥 Amongst top 10 contributor in SWOC'21
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
