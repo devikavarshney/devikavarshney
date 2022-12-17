@@ -112,7 +112,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
       <img
         src="https://activity-graph.herokuapp.com/graph?username=devikavarshney&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
@@ -121,7 +121,7 @@
       />
     </a>
  </div>
-
+ -->
 
 ---
 
