@@ -10,9 +10,6 @@
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
 <br />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
-<br />
-
 
 ## 📞 Connect with me
 
@@ -62,6 +59,9 @@
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=devikavarshney&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
+</p>
+<p align="center">
+ <img src="https://github.com/devikavarshney/devikavarshney/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 ## ⭐ Thanks for the visit!
