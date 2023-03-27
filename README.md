@@ -69,7 +69,7 @@
 
 ## ⭐ Thanks for the visit!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=devikavarshney&theme=dark)](https://github.com/devikavarshney)
+[![trophy](https://github-profile-trophy.vercel.app/?username=devikavarshney&theme=radical)](https://github.com/devikavarshney)
 <br />
 <br />
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
