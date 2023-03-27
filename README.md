@@ -1,6 +1,6 @@
 <h1> <p align="center"> <b> Welcome! Happy to see you here! 😁 </p> </b> </h1>
 <p align="center">
-<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png">
+<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
 </p>
 <!-- <a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&width=1000&height=100"></a> -->
 
