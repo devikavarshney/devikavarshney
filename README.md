@@ -1,6 +1,6 @@
-# Welcome! Happy to see you here! &ensp
+# <center> Welcome! Happy to see you here!&emsp </center>
 
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "center" alt="my_octocat" width=475px>
 <br />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
