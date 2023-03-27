@@ -7,13 +7,10 @@
 - 🌱 I’m currently learning MERN Stack & building Projects in public.
 - 👯 I’m looking to collaborate with people with Amazing Ideas.
 - ⚡ Fun fact: I love connecting & socializing with new people.
-<br />
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
 <br />
-<center>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
-</center>
 <br />
 
 
@@ -75,5 +72,5 @@
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
 <br />
-[![Visitor Count](https://visitcount.itsvg.in/api?id=devikavarshney&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=devikavarshney&icon=0&color=0&height=100%)](https://visitcount.itsvg.in)
 <br />
