@@ -1,7 +1,7 @@
-<h2> <p align="center"> Welcome! Happy to see you here! 😁 </p> </h2>
+<h1> <p align="center"> <b> Welcome! Happy to see you here! 😁 </p> </b> </h1>
 <p align="center">
 <img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png">
- </p>
+</p>
 <!-- <a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&width=1000&height=100"></a> -->
 <br />
 
