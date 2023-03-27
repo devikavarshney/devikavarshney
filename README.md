@@ -3,7 +3,7 @@
 <img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
 </p>
 <p align="center">
-  <img width="600" height="800" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
+  <img width="600" height="600" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
 </p>
 
 ## Hi, I'm Devika Varshney, a curious learner from India! 
