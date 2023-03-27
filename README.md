@@ -59,7 +59,7 @@
 
 <p align="left">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devikavarshney&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devikavarshney&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devikavarshney&theme=radical&show_icons=true&hide_border=true)
 <br />
