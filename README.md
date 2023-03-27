@@ -1,11 +1,11 @@
-# Welcome! Happy to see you here! &ensp;<img src="./wave.gif" width="37px" height="37px" />
+# Welcome! Happy to see you here! &ensp
 
-
-![banner (1)](https://user-images.githubusercontent.com/76626529/185743060-d78e7a84-2079-4e45-a634-a0215431e921.png)
-<br />
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
 <br />
 
-<img align="right" width="50%" src="images/casual-life-3d-reading.png"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
+
+<br />
 
 
 ### Hi, I'm Devika Varshney, a curious learner from India!
@@ -24,7 +24,7 @@
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/devikavarshney)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/devikavarshney0003)
 
-<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞]((https://devikavarshney.github.io/Portfolio-Website/))&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://github.com/devikavarshney/Portfolio-Website/blob/main/Devika_Varshney_Resume.pdf) </span>
+<span> [𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐖𝐞𝐛𝐬𝐢𝐭𝐞](https://devikavarshney.github.io/Portfolio-Website/)&emsp;|&emsp;[𝐑𝐞𝐬𝐮𝐦𝐞](https://github.com/devikavarshney/Portfolio-Website/blob/main/Devika_Varshney_Resume.pdf) </span>
 
 <br />
 
@@ -78,27 +78,3 @@
 ![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br />
 <br /> 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&lines=%E2%80%9CBelieve+in+yourself.%E2%80%9D)](https://git.io/typing-svg)
-
-## ⚡️Github Contributions
-	
-<h4 align="center">Isometric view of contributions in the last year</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-rainbow.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
-	</a>
-</p>
-
-## 🚀Github Metrics
-
-<p align="center">
-	<img width="625em" src="https://github.com/devikavarshney/devikavarshney/blob/main/github-metrics.svg" />
-</p>
-
-<p align="center"> 
-  Views<br>
-  <img src="https://profile-counter.glitch.me/devikavarshney/count.svg" />
-</p>
-
-
-
