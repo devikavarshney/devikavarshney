@@ -1,4 +1,4 @@
-# Welcome! Happy to see you here! 😁
+<h2> <p align="center"> Welcome! Happy to see you here! 😁 </p> </h2>
 <p align="center">
 <img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png">
  </p>
