@@ -1,6 +1,6 @@
 # Welcome! Happy to see you here!
-
-### Hi, I'm Devika Varshney, a curious learner from India!
+<a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&center=true&width=500&height=50"></a>
+### Hi, I'm Devika Varshney, a curious learner from India! <img src='.github/workflows/flyingcat.gif' height=65/>
 - 💻 I have worked as a Technical Blog Writer for 9 months and as a Technical Blog Reviewer for 3 months.
 - 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.
 - 🔭 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS.
@@ -23,8 +23,10 @@
 <br />
 
 ## 🔥 Tech Stack
+<imag src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png">
 
 ### Front End Skills :
+
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -59,9 +61,6 @@
 <br />
 <img src="https://activity-graph.herokuapp.com/graph?username=devikavarshney&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-</p>
-<p align="center">
- <img src="https://github.com/devikavarshney/devikavarshney/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
 </p>
 
 ## ⭐ Thanks for the visit!
