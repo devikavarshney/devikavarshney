@@ -2,7 +2,9 @@
 <p align="center">
 <img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
 </p>
-<!-- <a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&width=1000&height=100"></a> -->
+<p align="center">
+  <img width="600" height="200" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
+</p>
 
 ## Hi, I'm Devika Varshney, a curious learner from India! 
 - 💻 I have worked as a Technical Blog Writer for 9 months and as a Technical Blog Reviewer for 3 months.
