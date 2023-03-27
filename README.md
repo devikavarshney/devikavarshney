@@ -12,6 +12,7 @@
 - 🌱 I’m currently learning MERN Stack & building Projects in public.
 - 👯 I’m looking to collaborate with people with Amazing Ideas.
 - ⚡ Fun fact: I love connecting & socializing with new people.
+- 🔥 Amongst top 10 contributor in SWOC'21
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=475px>
 <br />
