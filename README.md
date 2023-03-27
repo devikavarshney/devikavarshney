@@ -1,5 +1,5 @@
-# Welcome! Happy to see you here!
-<a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&center=true&width=500&height=50"></a>
+# Welcome! Happy to see you here! 😁
+<a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&width=1000&height=100"></a>
 ### Hi, I'm Devika Varshney, a curious learner from India! <img src='.github/workflows/flyingcat.gif' height=65/>
 - 💻 I have worked as a Technical Blog Writer for 9 months and as a Technical Blog Reviewer for 3 months.
 - 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.
@@ -23,7 +23,7 @@
 <br />
 
 ## 🔥 Tech Stack
-<imag src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png">
+<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png">
 
 ### Front End Skills :
 
