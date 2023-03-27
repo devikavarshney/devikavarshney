@@ -1,9 +1,7 @@
 # Welcome! Happy to see you here! 😁
-
-<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png" align = "middle" style="display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;">
+<p align="center">
+<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png" align = "middle">
+ </p>
 <!-- <a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&width=1000&height=100"></a> -->
 <br />
 
