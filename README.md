@@ -1,128 +1,21 @@
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7868) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devikavarshney) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@devikavarshney0003) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/devikavarshney0003) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18253389/devika-varshney) 
 
-<!-- New readme -->
-<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></head>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devikavarshney&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devikavarshney&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devikavarshney&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="./bg.png">
-<h1 align="center">Hi 👋, I'm Devika</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/devika-varshney-2776721b5/">Linkedin</a> | <a href="https://twitter.com/devika0003_">Twitter</a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=devikavarshney&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
-<!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" align="left">-->
-
-
-<p>I am an aspiring Web developer from Vellore institute of technology, Vellore currently pursuing the second year of Information Technology. I have experience working with Java, Web development, Figma Ui designing.</p>
-
-
-<p>I am a people person and love being part of communities. <strong>Currently part of Apple developer group of my college and Catsintech community. </strong>If you like to collaborate on projects, discuss some ideas or products, or want to know more about student programs and internships just reach out to me via <a href="https://www.linkedin.com/in/devika-varshney-2776721b5/">Linkedin</a>. I would be happy to help.</p>
-
-
-
-🕸️ I'm interested in Web development.
-
-❓ Ask me about Java, Web development, Designing
-
-📖 I'm currently learning ReactJS
-
-🤝 I'm looking to collaborate on Real World Problem Solving Projects
-
-🔥 Amongst top 10 contributor in SWOC'21
-
-<h2 align="center">Connect Me !! 🤝</h2> 
-
-<p align="center">
-<a href="https://github.com/devikavarshney" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/devika-varshney-2776721b5/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/devika0003_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:devikavarshney0003@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p> 
-
-----
-
-<h3 align="left">Languages and Tools:</h3>
-<p>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank">
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=devikavarshney&theme=nord&column=7" alt="Trophies" style="margin-right: 10px;"/>
-    </a>
-  </div>
-</details>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/devikavarshney">
-    <img height="150" width="175" src="https://github.com/devikavarshney/devikavarshney/blob/main/left.png">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img
-        align="center"
-        width="396" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=devikavarshney&theme=react&border=61dafb&hide_border=true"
-        alt="zumrudu-anka"
-      />
-    </a>
-    <img height="150" width="175" src="https://github.com/devikavarshney/devikavarshney/blob/main/right.png">
-  </a>
-</p>
-
-<details open="">
-  <summary><strong>📈 My Github Stats</strong></summary>
-  <br>
-  
-  <div align="center" title="Go to Source">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-       <img
-        align="center"
-        width="65%"
-        src="https://github-readme-stats.vercel.app/api?username=devikavarshney&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-  <br />
-  <div align="center" title="Go to Source">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        width="35%"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devikavarshney&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-  
-</details>
-<br />
-
-<!-- <div align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
-      <img
-        src="https://activity-graph.herokuapp.com/graph?username=devikavarshney&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
-        alt="Contributions Graph"
-        width="100%"
-      />
-    </a>
- </div>
- -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=devikavarshney&icon=2&color=6)](https://visitcount.itsvg.in)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=devikavarshney.devikavarshney)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
