@@ -1,6 +1,6 @@
 # Welcome! Happy to see you here! 😁
 <p align="center">
-<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png" align = "middle">
+<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png">
  </p>
 <!-- <a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&width=1000&height=100"></a> -->
 <br />
@@ -42,15 +42,17 @@
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ADD8E6?style=for-the-badge&logo=npm&logoColor=white)
 
 ### Database Skills :
 ![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MYSQL-4EA94B?style=for-the-badge&logo=mysql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools :
 ![NETLIFY](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-2F4F4F?style=for-the-badge&logo=git&logoColor=white)
 
 <br />
 
@@ -64,8 +66,6 @@
 <br />
 [![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Kanduri&theme=radical&hide_border=true&layout=compact)](https://github.com/devikavarshney/github-readme-stats)
 <br />
-<img src="https://activity-graph.herokuapp.com/graph?username=devikavarshney&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
 </p>
 
 ## ⭐ Thanks for the visit!
