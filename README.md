@@ -3,7 +3,6 @@
 <img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png">
 </p>
 <!-- <a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&width=1000&height=100"></a> -->
-<br />
 
 ## Hi, I'm Devika Varshney, a curious learner from India! 
 - 💻 I have worked as a Technical Blog Writer for 9 months and as a Technical Blog Reviewer for 3 months.
