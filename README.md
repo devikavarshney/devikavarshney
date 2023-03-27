@@ -1,8 +1,9 @@
 # Welcome! Happy to see you here! 😁
 
-<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png" width= 1500px height = 600px>
+<img src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-likes.png" width= 2000px height = 800px>
 <a href="https://github.com/devikavarshney"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+Developer;Coder;Curious+Learner&width=1000&height=100"></a>
-### Hi, I'm Devika Varshney, a curious learner from India! <img src='.github/workflows/flyingcat.gif' height=65/>
+<br />
+### Hi, I'm Devika Varshney, a curious learner from India! 
 - 💻 I have worked as a Technical Blog Writer for 9 months and as a Technical Blog Reviewer for 3 months.
 - 🚀 I’m currently looking for a Job with a role of MERN Stack Web Developer.
 - 🔭 I’m currently working with MongoDB, ExpressJS, ReactJS, NodeJS.
