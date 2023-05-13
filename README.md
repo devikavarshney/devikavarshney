@@ -1,8 +1,8 @@
 <h1> <p align="center"> <b> Welcome! Happy to see you here! 😁 </p> </b> </h1>
-
+<!-- 
 <p align="center">
   <img width="600" height="500" src="https://github.com/SamarFatimaJaffri/SamarFatimaJaffri/blob/main/images/casual-life-3d-reading.png">
-</p>
+</p> -->
 
 ## Hi, I'm Devika Varshney, a curious learner from India! 
 - 💻 I have worked as a Technical Blog Writer for 9 months and as a Technical Blog Reviewer for 3 months.
