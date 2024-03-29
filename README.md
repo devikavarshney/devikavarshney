@@ -39,7 +39,7 @@
 
 ### Back End Skills :
 ![NODE](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-404D59?style=for-the-badge)
 ![EXPRESS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-ADD8E6?style=for-the-badge&logo=php&logoColor=white)
